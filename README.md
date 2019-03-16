@@ -1,2 +1,8 @@
 # SysAdmin-Scripts
-This folder includes scripts which Sys Admins use for their everyday tasks.
+ 
+
+ System Administrators, Technical Desk Supporters are genius! 
+ They should know everything, never say no and can not :) 
+Let's be a genious!!!
+
+Simple shell scripts to make life easier.
